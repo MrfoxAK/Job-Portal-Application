@@ -1,0 +1,27 @@
+{
+  "name": "jobprotal",
+  "version": "1.0.0",
+  "description": "job portal project",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrfoxAK/Job-Portal-Application.git"
+  },
+  "author": "Subhamay,Shubham,Raktim,Akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrfoxAK/Job-Portal-Application/issues"
+  },
+  "homepage": "https://github.com/MrfoxAK/Job-Portal-Application#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
